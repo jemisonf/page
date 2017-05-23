@@ -1,0 +1,31 @@
+#blog-navbar {
+  background-color: #73c7d8;
+  color: white;
+}
+
+#blog-navbar * {
+  color: white;
+}
+
+#blog-navbar h1 small {
+  margin-left: 1%;
+}
+
+#blog-list-active {
+  background-color: #73c7d8;
+  border-color: #73c7d8;
+}
+
+#blog-secondary-heading {
+  color: #0b2328;
+}
+
+
+#blog-disabled a, #blog-disabled span {
+  color: #EEEEEE;
+}
+
+
+
+
+
